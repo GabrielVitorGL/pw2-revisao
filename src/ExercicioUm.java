@@ -4,7 +4,7 @@ public class ExercicioUm {
 		String nome = "Gabriel", sobrenome = "Santana";
 		int idade = 16;
 		String resultado = nome + " " + sobrenome + " tem " + idade + " anos";
-		
+
 		System.out.println(resultado);
 	}
 }
