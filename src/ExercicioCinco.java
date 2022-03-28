@@ -11,8 +11,4 @@ public class ExercicioCinco {
 		med = (trabalhoDeCiencia + trabalhoDeGeografia + trabalhoDeHistoria + trabalhoDeMatematica) /4;
 		System.out.printf("%.2f", med);
 	}
-	
-	
-	
-
 }
